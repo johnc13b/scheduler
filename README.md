@@ -12,6 +12,8 @@ JavaScript
 
 ### Deployed URL
 
+https://johnc13b.github.io/scheduler/
+
 #
 
 ### Screenshots
