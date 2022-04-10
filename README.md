@@ -18,6 +18,10 @@ https://johnc13b.github.io/scheduler/
 
 ### Screenshots
 
+![image](https://user-images.githubusercontent.com/100248387/162642100-31c8c51a-d844-408f-a56d-0220ba2a789f.png)
+
+![image](https://user-images.githubusercontent.com/100248387/162642264-1be2fecc-a20d-4235-afcd-51ff563831ee.png)
+
 #
 
 ### Resources
