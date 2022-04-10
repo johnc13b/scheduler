@@ -6,9 +6,9 @@ Having trouble keeping your work schedule organized? Here is a quick and simple 
 
 ### Language
 
-HTML
-CSS
-JavaScript
+HTML  
+CSS  
+JavaScript  
 
 ### Deployed URL
 
@@ -26,5 +26,5 @@ https://johnc13b.github.io/scheduler/
 
 ### Resources
 
-https://getbootstrap.com/
+https://getbootstrap.com/  
 https://jquery.com/
