@@ -1,5 +1,5 @@
 body {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Helvetica, Arial, sans-serif';
   font-size: 1em;
   line-height: 1;
 }
@@ -69,3 +69,17 @@ textarea{
   font-size: 20px;
   transition: all .3s ease-in-out;
 }
+
+@media screen and (max-width: 768px), screen and (max-width: 575px) {
+  .row {
+    height: auto;
+    margin-top: 20px;
+  }
+
+  .hour {
+    padding-right: 17%;
+  }
+
+  .saveBtn {
+    border: 0;
+}}
