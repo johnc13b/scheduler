@@ -1,11 +1,10 @@
-// Current Date
+// Current Date -- Does not work with newer Library
 var todayDate = moment().format('dddd, MMM Do YYYY');
 $("#currentDay").html(todayDate);
 
 $(document).ready(function () {
 // Save Button
     $(".saveBtn").on("click", function () {
-// Get nearby values of the description in JQuery
     var text = $(this).siblings(".description").val();
     var time = $(this).parent().attr("id");
 
